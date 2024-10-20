@@ -1,0 +1,17 @@
+#navb {
+    background-color: none;
+    padding: 10px 20px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    border-bottom: 2px solid white;
+}
+
+#navb .nav-link {
+    color: white;
+}
+
+#navb .navbar-brand{
+    color: white;
+}
